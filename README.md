@@ -1,2 +1,6 @@
 # Heart-Disease-Prediction-Project
-This is heart disease prediction project that contains different methods such as FNN with Multiclass Classification, Binary Classification, Cross-Validation etc. 
+Title: Heart Disease Prediction Project
+
+Project Description: This project is to predict either the patient has positively heart disease or negatively no heart disease determined by the features available. The dataset available in https://www.kaggle.com/johnsmith88/heart-disease-dataset.  
+
+Details: This project's folder contains 4 different projects which are Heart Disease prediction using Feed Neural Network (Sequential API), Heart Disease prediction using Feed Neural Network (Functional API), Heart Disease prediction using Feed Neural Network with Cross-Validation, and lastly Multi-Class classification for Heart Disease prediction. Functional API and Sequential API has different implementation of building the model as functional API is flexible and control over the layers than in the sequential. Besides, Functional API can be used to predict multiple output with multiple input. Cross-validation meanwhile is to split into specified value of subset in which every subset has different part of splitting training and validation dataset. Those model are running in which to determine which method is the best to avoid overfitting and obtain good result. 
